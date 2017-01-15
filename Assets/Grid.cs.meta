@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 329c7638e7cf95547a6b741526c1b856
+timeCreated: 1484445208
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Plane: {fileID: 1000011117652158, guid: 5bcd625ad05691e4d8cd00f5d7376efb, type: 2}
+  - Tile: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
